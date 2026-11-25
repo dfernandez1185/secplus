@@ -4,7 +4,7 @@
  "start_url": "./",
  "scope": "./",
  "display": "standalone",
- "background_color": "#0b1322",
+ "background_color": "#120b1d",
  "theme_color": "#3a1f5d",
  "description": "CompTIA Security+ SY0-701 study app matched to the 8th-edition textbook.",
  "icons": [
