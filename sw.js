@@ -1,6 +1,6 @@
 // Security+ Study Bench service worker: offline app shell, offline photos, update and daily-study notifications.
-const VERSION = "secplus-v2";
-const APP_VER = "0.1 beta 2";
+const VERSION = "secplus-v3";
+const APP_VER = "0.1 beta 3";
 const SHELL = "secplus-shell-" + VERSION;
 const PHOTOS = "secplus-photos-v1";
 const META = "secplus-meta";
