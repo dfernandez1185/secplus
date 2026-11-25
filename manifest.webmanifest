@@ -1,0 +1,40 @@
+{
+ "name": "Security+ Study Bench",
+ "short_name": "Sec+ Bench",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "background_color": "#0b1322",
+ "theme_color": "#3a1f5d",
+ "description": "CompTIA Security+ SY0-701 study app matched to the 8th-edition textbook.",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "shortcuts": [
+  {
+   "name": "Today's plan",
+   "url": "./?open=plan",
+   "icons": [
+    {
+     "src": "icon-192.png",
+     "sizes": "192x192"
+    }
+   ]
+  }
+ ]
+}
